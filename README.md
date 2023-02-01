@@ -1,4 +1,4 @@
 # Short-Stories
 
 
-* [Nova City](nova.city.aria.md)
+* [Nova City' Aria](nova.city.aria.md)
