@@ -1,6 +1,6 @@
 # Nova City' Aria 
 
-Nova City was a bustling metropolis located on the planet Vita Nova. It was a place where people from all over the galaxy came to start anew, chasing their dreams and seeking adventure. The city was built on a foundation of technology and progress, with towering skyscrapers and advanced systems that made life easier for its inhabitants.
+Nova City was a bustling metropolis located on the planet Saiantum. It was a place where people from all over the galaxy came to start anew, chasing their dreams and seeking adventure. The city was built on a foundation of technology and progress, with towering skyscrapers and advanced systems that made life easier for its inhabitants.
 
 At the heart of Nova City was the Central Square, a massive public gathering place where people came to trade, play, and interact. It was here that one could find anything from exotic foods and unique trinkets to cutting-edge technology and powerful weapons.
 
