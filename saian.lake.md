@@ -1,6 +1,6 @@
 # Saian Lake
 
-Nova City was a place of wonder and excitement for the settlers who first landed on the planet Vita Nova. As they began to explore their new home, they soon discovered the magnificent Saian Lake. The lake was unlike anything they had ever seen before, with its light purple color and strange Saian stones lying at the bottom.
+Nova City was a place of wonder and excitement for the settlers who first landed on the planet Saiantum. As they began to explore their new home, they soon discovered the magnificent Saian Lake. The lake was unlike anything they had ever seen before, with its light purple color and strange Saian stones lying at the bottom.
 
 At first, the settlers were wary of the lake and its strange appearance, but their curiosity eventually got the better of them. They decided to investigate, and soon discovered that the Saian stones held a mysterious power. The stones seemed to glow with a bright light and emit a low hum that filled the air around the lake.
 
