@@ -1,4 +1,4 @@
-# Short-Stories
+# Short Stories About Asha Galaxy
 
 
 * [Nova City' Aria](nova.city.aria.md)
