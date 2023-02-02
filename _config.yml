@@ -2,4 +2,8 @@
 markdown: kramdown
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme 
+
+
+title: Short Stories About Asha Empire Online
+description: Get ready for the ultimate sci-fi gaming experience as you step into the world of the Asha Empire.
