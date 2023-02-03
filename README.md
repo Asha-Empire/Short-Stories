@@ -1,6 +1,6 @@
 # Short Stories About Asha Galaxy
 
-
+* [Dr. Kiera Sterling](dr.kiera.sterling.md)
 * [Nova City' Aria](nova.city.aria.md)
 * [Saian Lake](saian.lake.md)
 * [Saian Stone](saian.stone.md)
