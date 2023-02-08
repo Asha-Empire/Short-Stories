@@ -32,3 +32,4 @@ At the end of his life, Walter was succeeded by his daughter **Naina**, who cont
 
 In conclusion, **Emperor Walter Friessner** was a man of great vision, courage and strength. He was able to overcome seemingly insurmountable odds to build a powerful empire that would endure for generations to come. He will be remembered as one of the greatest leaders in the history of the Asha galaxy. **Emperor Walter Friessner** was a powerful and tyrannical leader of the Asha Empire. He ruled with an iron fist and was feared by many throughout the galaxy. Under his rule, the Asha Empire grew in power and expanded its territory through colonization of new star systems and exploitation of new resources.
 
+go to [Short Stories](https://asha-empire.github.io/Short-Stories/) page
