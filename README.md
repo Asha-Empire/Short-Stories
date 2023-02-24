@@ -8,3 +8,4 @@
 * [Warp Engine](warp.engine.md)
 * [Asha Empire Calendar](asha.empire.calendar.md)
 * [Altaurians](altaurians.md)
+* [Short Story Of Asha Empire](short.story.of.asha.empire.md)
