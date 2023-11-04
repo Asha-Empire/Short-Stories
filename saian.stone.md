@@ -1,8 +1,8 @@
 # Saian Stone
 
-Once upon a time, in a far-off galaxy, a team of space explorers landed on the planet **Saiantum**. They were stunned by the beautiful scenery of the planet - the rolling hills, the vibrant forests, and the stunningly clear skies. The most breathtaking sight, however, was the **Saian Ocean**. The lake was light purple in color and had a stunning stone at the bottom, which would later come to be known as the Saian stone.
+Once upon a time, in a far-off galaxy, a team of space explorers landed on the planet **Saiantum**. They were stunned by the beautiful scenery of the planet - the rolling hills, the vibrant forests, and the stunningly clear skies. The most breathtaking sight, however, was the **Saian Ocean**. The ocean was light purple in color and had a stunning stone at the bottom, which would later come to be known as the Saian stone.
 
-As the explorers approached the lake, they noticed that the stone was glowing and had a strange aura about it. They had never seen anything like it before and were immediately intrigued. They decided to bring a sample of the stone back to their spaceship for further analysis. When they got back to the ship, they ran a series of tests on the stone and were shocked by what they discovered.
+As the explorers approached the ocean, they noticed that the stone was glowing and had a strange aura about it. They had never seen anything like it before and were immediately intrigued. They decided to bring a sample of the stone back to their spaceship for further analysis. When they got back to the ship, they ran a series of tests on the stone and were shocked by what they discovered.
 
 **The Saian stone** was rich in energy, and when a special treatment was performed on it, it allowed other materials to float in the air. The team was amazed that the stone could harness such incredible power. The team also noticed that the stone was self-illuminating and had a light purple glow that was almost hypnotic. It was unlike anything they had ever seen before.
 
