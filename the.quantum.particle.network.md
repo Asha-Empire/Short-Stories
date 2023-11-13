@@ -13,3 +13,5 @@ The impact of QPN was profound. It not only connected the colonies within the Vi
 **Dr. Hale**, **Dr. Reyes**, and their team became revered figures, celebrated not only for their groundbreaking invention but also for their unwavering commitment to the pursuit of knowledge and the betterment of humankind. Their collaborative efforts underscored the incredible achievements that could be attained through the unrelenting pursuit of scientific discovery.
 
 As the years passed, **the Quantum Particle Network** continued to evolve, adapting to the ever-expanding frontiers of human exploration. It remained a testament to the indomitable spirit of scientific inquiry, a shining example of what could be accomplished when the brightest minds united to unravel the mysteries of the universe. The legacy of **Dr. Amelia Hale**, **Dr. Benjamin Reyes**, and their team would endure for generations to come, guiding humanity as it ventured further into the cosmos, armed with the power of QPN.
+
+[Short Stories](https://asha-empire.github.io/Short-Stories/)
