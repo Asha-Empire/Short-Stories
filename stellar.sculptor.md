@@ -13,3 +13,5 @@ As the sculptures began to populate **Nebula Nook City**'s streets, they became 
 Orion Castell's sculptures breathed life into Nebula Nook, and their presence was a testament to the enduring spirit of the city's inhabitants. Despite the chaos and turmoil that surrounded them, they could look up to the stars, both real and sculpted, and find solace in the beauty that Orion had brought to their lives.
 
 Though the city remained a hotbed of chaos and lawlessness, **Nebula Nook**'s residents found comfort in the celestial wonders that now graced their streets. And **Orion Castell**, the **Stellar Sculptor**, continued to create art that transcended the boundaries of their harsh reality, proving that even in the darkest of places, the light of creativity and hope could shine through.
+
+[Short Stories](https://asha-empire.github.io/Short-Stories/)
