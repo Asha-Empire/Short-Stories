@@ -26,6 +26,6 @@ Among the city's artists was the renowned sculptor, Lysandra, whose work transce
 
 Lysandra's masterpieces graced Nova City's streets, parks, and squares, serving as a reminder of the pioneers' journey and the wisdom they had gained. The city's leadership recognized her profound contribution to their culture and decided to place her sculptures at key locations, not just as works of art but as guardians of their shared history.
 
-As the years rolled on, Nova City and its people continued to thrive, guided by the lessons of their past. The legacy of the Saian Stones and the pioneers who tamed the Saian Ocean lived on, forever reminding them that exploration, tempered with reverence, was the key to harmony with the cosmos.
+As the years rolled on, **Nova City** and its people continued to thrive, guided by the lessons of their past. The legacy of **the Saian Stones** and the pioneers who tamed **the Saian Ocean** lived on, forever reminding them that exploration, tempered with reverence, was the key to harmony with the cosmos.
 
 [Short Stories](https://asha-empire.github.io/Short-Stories/)
