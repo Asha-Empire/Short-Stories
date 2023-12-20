@@ -24,4 +24,6 @@ In Year 14 of the Asha calendar, equivalent to 3023 AD, the Empire's navy mainta
 ## Chapter 7: Turbulence and Transition (Year 15 - 30)
 The subsequent years were a test of the Empire's resilience. The rapid expansion brought about rationing and resource management challenges. Dissent simmered across the colonies, culminating in the formidable Fulker Rebellion during Queen Naina's reign. Her response, a blend of military might and subsequent reforms, marked a pivotal moment in the Empire's history—ushering in a more representative form of governance and addressing the underlying causes of unrest.
 
+![Empire of the Stars: The Rise and Reign of the Asha Dynasty](The_Rise_and_Reign_of_the_Asha_Dynasty.png)
+
 go to [Short Stories](https://asha-empire.github.io/Short-Stories/) page
