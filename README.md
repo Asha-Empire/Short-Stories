@@ -1,5 +1,6 @@
 # Short Stories About Asha Galaxy
 
+* [Empire of the Stars: The Rise and Reign of the Asha Dynasty](the.rise.and.reign.of.the.asha.dynasty.md)
 * [Dr. Kiera Sterling](dr.kiera.sterling.md)
 * [Emperor Walter Friessner](emperor.walter.friessner.md)
 * [Nebula Nook City](nebula.nook.city.md)
