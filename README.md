@@ -11,5 +11,6 @@
 * [Warp Engine](warp.engine.md)
 * [Asha Empire Calendar](asha.empire.calendar.md)
 * [Altaurians](altaurians.md)
+* [The Asha Empire and the Altaurian Challenge](the.asha.empire.and.the.altaurian.challenge.md)
 * [Short Story Of Asha Empire](short.story.of.asha.empire.md)
 * [The Quantum Particle Network (QPN)](the.quantum.particle.network.md)
